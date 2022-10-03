@@ -1,0 +1,1 @@
+/*! simplestatemanager | license: MIT | version: 3.3.0 | build date: 2016-09-20 */
